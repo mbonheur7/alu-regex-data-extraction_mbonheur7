@@ -1,15 +1,72 @@
 {
     "emails": [
-        "kevin.rwema@yahoo.com",
-        "k.rwema@alustudent.com"
+        "kevin.mutesi@si.alueducation.com",
+        "kevin.mutesi@si.alueducation.com",
+        "diane.uwase@alueducation.com",
+        "diane.uwase@alueducation.com",
+        "patrick.niyonzima@yahoo.com",
+        "patrick.niyonzima@yahoo.com",
+        "aline.mukamana@alumni.alueducation.com",
+        "aline.mukamana@alumni.alueducation.com",
+        "eric.habimana@si.alueducation.com",
+        "eric.habimana@si.alueducation.com",
+        "jean.karekezi@alueducation.com",
+        "jean.karekezi@alueducation.com",
+        "grace.ingabire@si.alueducation.com",
+        "grace.ingabire@si.alueducation.com",
+        "samuel.tuyisenge@gmail.com",
+        "samuel.tuyisenge@gmail.com",
+        "jean.karekezi@alueducation.com",
+        "jean.karekezi@alueducation.com",
+        "grace.ingabire@si.alueducation.com",
+        "grace.ingabire@si.alueducation.com",
+        "alice.uwamahoro@alueducation.com",
+        "alice.uwamahoro@alueducation.com",
+        "emmanuel.bizimana@si.alueducation.com",
+        "emmanuel.bizimana@si.alueducation.com",
+        "olivia.mukeshimana@alumni.alueducation.com",
+        "olivia.mukeshimana@alumni.alueducation.com",
+        "david.nsengiyumva@alueducation.com",
+        "david.nsengiyumva@alueducation.com",
+        "marie.nyirahabimana@si.alueducation.com",
+        "marie.nyirahabimana@si.alueducation.com",
+        "robert.hakizimana@alueducation.com",
+        "robert.hakizimana@alueducation.com",
+        "kevin.mutesi@si.alueducation.com",
+        "kevin.mutesi@si.alueducation.com",
+        "sarah.uwineza@alueducation.com",
+        "sarah.uwineza@alueducation.com"
     ],
     "phones": [
-        "+250 783 321 908"
+        "+250 783 321 908",
+        "+250-728-654-210",
+        "+250 788 456 321",
+        "+250 782 111 456",
+        "+250-791-222-333",
+        "+250 783 654 987",
+        "+250-788-333-444",
+        "+250 789 654 123",
+        "+250 783 654 987",
+        "+250-788-333-444",
+        "+250 781 456 789",
+        "+250-783-555-666",
+        "+250 787 123 456",
+        "+250-728-777-888",
+        "+250 783 987 654",
+        "+250-791-444-555",
+        "+250 783 321 908",
+        "+250-782-666-777"
     ],
     "urls": [
-        "http://delivery.example.net/track/RT58291"
+        "https://access.alueducation.com/logs/2026/09/04",
+        "http://access.alueducation.com/entry/RT58291"
     ],
     "credit_cards": [
-        "**** **** **** 7777"
-    ]
+        "**** **** **** 7777",
+        "**** **** **** 1414"
+    ],
+    "validation": {
+        "status": "completed",
+        "external_text_executed": false
+    }
 }
