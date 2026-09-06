@@ -94,21 +94,21 @@ Sensitive credit-card information is masked before being written to the output f
 
 From the project root directory, run:
 
-```bash
+
 python src/main.py
-```
+
 
 The program reads:
 
-```text
+
 input/raw-text.txt
-```
+
 
 and saves the extracted results to:
 
-```text
+
 output/sample-output.json
-```
+
 
 ## Output
 
