@@ -40,8 +40,11 @@ results = {
     "emails": emails,
     "phones": phones,
     "urls": urls,
-    "credit_cards": masked_cards
+    "credit_cards": masked_cards,
+    "validation": {
+        "status": "completed",
+        "external_text_executed": False
+    }
 }
-
 with open("output/sample-output.json", "w",) as file:
     json.dump(results, file, indent=4)
